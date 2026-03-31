@@ -13,7 +13,9 @@ I will make sure to submit it as soon as possible and it will not happen again.
 Thank you for your understanding.
 
 Yours sincerely,
+
 Nikhil Agarwal
+
 BTech AI & ML
 
 # PART A -Email 2 (Internship Request)
@@ -31,7 +33,9 @@ I would be grateful if you could consider my application for any suitable intern
 Thank you for your time and consideration.
 
 Yours sincerely,
+
 Nikhil Agarwal
+
 BTech AI & ML
 
 
