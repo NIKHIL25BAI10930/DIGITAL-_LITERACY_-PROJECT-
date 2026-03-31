@@ -2,7 +2,9 @@
 
 ##  Student Details
 **Name:** NIKHIL AGARWAL
+
 **Branch:** BTECH AI ML 
+
 **Batch:** 2025-2029
 
 ---
@@ -55,7 +57,7 @@ This task helped me understand how cybercrime happens and how to stay safe.
 ##  Useful Links
 - Google Form Link: https://forms.gle/KvHsdLtRaNZ5Vpq69
 - LinkedIn Profile: https://www.linkedin.com/in/nikhil-agarwal-bb0750381/
-- GitHub Profile: https://github.com/allowingleafgamer-beep  
+- GitHub Profile: https://github.com/NIKHIL25BAI10930 
 
 ---
 
